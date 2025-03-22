@@ -1,0 +1,8 @@
+Define a class BankAccount that follows the principle of encapsulation. The class should have the following:
+
+A private attribute __balance to store the account balance.
+A constructor that initializes the balance with a given value.
+A method deposit(amount) that adds the amount to the balance.
+A method withdraw(amount) that deducts the amount from the balance only if sufficient funds are available.
+A method get_balance() to return the current balance.
+Demonstrate the working of the class by creating an object and performing some transactions.
