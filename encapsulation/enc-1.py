@@ -1,3 +1,4 @@
+#encapsulation with Protected.
 # Create a class BankAccount with a private variable _balance.
 # Initialize it using a constructor and ensure balance cannot be accessed directly.
 # Add a method get_balance() to return the balance.
