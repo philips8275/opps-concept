@@ -1,0 +1,20 @@
+Basic:
+Write a program to demonstrate method overriding with a Parent and Child class.
+Implement operator overloading for the + operator in a Vector class.
+Create a function that takes different shapes (Circle, Rectangle) and calls a draw() method on them.
+Define a class Animal with a method make_sound(), then override it in Dog and Cat subclasses.
+Implement a polymorphic function that accepts different objects and prints their class names.
+
+Intermediate:
+Write a program where a Vehicle class has a method max_speed(), and subclasses (Car, Bike, Truck) override it.
+Implement a polymorphic function that calculates the area of different shapes (Circle, Square, Triangle).
+Overload the __mul__() operator to multiply two custom objects of a Money class.
+Define a base class Employee with a method salary(), then override it in Manager and Developer subclasses.
+Implement a polymorphic function that accepts file types (PDF, DOCX, TXT) and calls a read() method on them.
+
+Advanced:
+Implement polymorphism using an abstract base class with an abstract method.
+Use duck typing to write a function that works with multiple unrelated classes.
+Create a dynamic polymorphism example where a method behaves differently based on runtime object type.
+Write a class that implements multiple operator overloads (+, -, *, /) for a Fraction class.
+Implement a polymorphic process_data() function that handles different data types (e.g., int, list, dict, str).

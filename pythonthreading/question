@@ -1,0 +1,11 @@
+a program that simulates ATM withdrawals while allowing balance checks simultaneously.
+
+Scenario:
+Multiple users can withdraw money from the same bank account.
+
+While some users are withdrawing, others can check the balance in real-time.
+
+This ensures that the balance updates correctly and doesn't allow over-withdrawals.
+
+
+
